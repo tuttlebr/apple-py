@@ -24,4 +24,8 @@ In the graphs below, you can see the performance speedup from accelerated GPU tr
 2. Activate local python env.
    `source apple-py/bin/activate`
 
-3. Follow the example training and inference [readme](workspace/super_resolution/README.md).
+3. Install requirements.
+
+   `pip3 install -r requirements.txt`
+
+4. Follow the example training and inference [readme](workspace/super_resolution/README.md).
