@@ -19,9 +19,11 @@ In the graphs below, you can see the performance speedup from accelerated GPU tr
 ## GET STARTED LOCALLY
 
 1. Build local python env.
+
    `python3 -m venv apple-py`
 
 2. Activate local python env.
+
    `source apple-py/bin/activate`
 
 3. Install requirements.

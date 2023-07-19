@@ -1,5 +1,3 @@
-jupyterlab
-theme-darcula
 torch
 torchvision
 torchaudio
